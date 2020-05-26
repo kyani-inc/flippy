@@ -1,0 +1,41 @@
+{
+  "name": "card-flip",
+  "version": "0.1.6",
+  "authors": "Giovanny Quintero",
+  "description": "A flippy directive based on jQuery flip.",
+  "main": "card-flip.directive.js",
+  "keywords": [
+    "angular",
+    "bootstrap",
+    "jqueryr",
+    "directive",
+    "flippy"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/giovannyquin/flippy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "*",
+    "flip": ">=1.0.20",
+    "jquery": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giovannyquin/flippy.git"
+  },
+  "_release": "0.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.6",
+    "commit": "49227a9f57a13faaf92763d64732104989718b25"
+  },
+  "_source": "https://github.com/kyani-inc/flippy.git",
+  "_target": "~0.1.5",
+  "_originalSource": "card-flip-kyani-inc"
+}
